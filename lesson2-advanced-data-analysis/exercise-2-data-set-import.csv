@@ -1,7 +1,7 @@
 First Name,Last Name,Date of Hire,Salary (USD),Grade Level,Location,Country,Years of Service
 Karel,Derby,10/1/2014,"$101,100.00 ",4,New York City,USA,6
 Richard,Owston,3/5/2013,"$94,800.00 ",3,New York City,USA,7
-Maitiú,Rayne,5/4/2014,"$61,200.00 ",2,New York City,USA,6
+Maiti,Rayne,5/4/2014,"$61,200.00 ",2,New York City,USA,6
 Frazier,Presley,7/17/2015,"$90,400.00 ",3,New York City,USA,5
 Tamara,Bristol,11/27/2017,"$53,800.00 ",2,New York City,USA,3
 Tamara,Beck,5/9/2007,"$225,000.00 ",5,New York City,USA,13
@@ -9,7 +9,7 @@ Rosa,Angioli,9/18/2011,"$109,000.00 ",4,New York City,USA,9
 Teodoro,Siegel,6/7/2014,"$70,000.00 ",2,New York City,USA,6
 Meadhbh,Heffernan,1/26/2018,"$48,800.00 ",2,New York City,USA,2
 Wanda,Welch,3/3/2013,"$92,000.00 ",3,New York City,USA,7
-Ádhamh,Van Houtum,5/11/2016,"$71,800.00 ",2,New York City,USA,4
+dhamh,Van Houtum,5/11/2016,"$71,800.00 ",2,New York City,USA,4
 Livio,Graner,11/3/2016,"$55,200.00 ",2,New York City,USA,4
 Osborn,Longstaff,8/27/2013,"$94,400.00 ",3,New York City,USA,7
 Renate,Van Akkeren,11/22/2014,"$83,100.00 ",3,New York City,USA,6
@@ -36,11 +36,11 @@ Joye,Danielson,1/23/2014,"$94,300.00 ",3,New York City,USA,6
 Flavio,Cock,3/24/2015,"$72,200.00 ",2,New York City,USA,5
 Isaura,Ryland,1/10/2017,"$63,000.00 ",2,New York City,USA,4
 Elaina,Smythe,8/25/2014,"$74,700.00 ",2,New York City,USA,6
-Édgar,Michaels,10/10/2015,"$50,000.00 ",2,New York City,USA,5
+ï¿½dgar,Michaels,10/10/2015,"$50,000.00 ",2,New York City,USA,5
 Delmar,Winston,10/12/2015,"$88,400.00 ",3,New York City,USA,5
 Marvin,Stacy,10/28/2016,"$58,500.00 ",2,New York City,USA,4
 Reese,Elliott,6/16/2016,"$56,900.00 ",2,Chicago,USA,4
-Erick,Márquez,7/9/2017,"$64,300.00 ",2,Chicago,USA,3
+Erick,Mï¿½rquez,7/9/2017,"$64,300.00 ",2,Chicago,USA,3
 Jerrod,Olmos,10/2/2015,"$90,800.00 ",3,Chicago,USA,5
 Gareth,Turner,2/9/2014,"$73,400.00 ",2,Chicago,USA,6
 Irwin,Wallis,11/28/2000,"$250,000.00 ",5,Chicago,USA,20
@@ -49,7 +49,7 @@ Ernest,Wade,4/11/2016,"$48,700.00 ",2,Chicago,USA,4
 Daniela,Palmer,12/19/2012,"$91,400.00 ",3,Chicago,USA,8
 Dorris,Ayers,3/31/2012,"$83,500.00 ",3,Chicago,USA,8
 Freeman,Rennold,6/11/2012,"$109,900.00 ",4,Chicago,USA,8
-José,Snyders,12/12/2015,"$52,100.00 ",2,Chicago,USA,5
+Josï¿½,Snyders,12/12/2015,"$52,100.00 ",2,Chicago,USA,5
 Dwayne,Paget,4/5/2015,"$54,900.00 ",2,Chicago,USA,5
 Gerard,Freeman,2/6/2012,"$84,900.00 ",3,Chicago,USA,8
 Alfreda,Basurto,11/3/2014,"$77,000.00 ",3,Chicago,USA,6
@@ -73,7 +73,7 @@ Therese,Reed,2/22/2012,"$110,500.00 ",4,Los Angeles,USA,8
 Darby,Lyons,1/23/2016,"$58,200.00 ",2,Los Angeles,USA,4
 Barrett,Auteberry,3/29/2016,"$63,100.00 ",2,Los Angeles,USA,4
 Esmee,Tailor,9/5/2011,"$102,600.00 ",4,Los Angeles,USA,9
-María Pilar,Jakeman,3/5/2017,"$50,800.00 ",2,Los Angeles,USA,3
+Marï¿½a Pilar,Jakeman,3/5/2017,"$50,800.00 ",2,Los Angeles,USA,3
 Prudence,Delaney,12/5/2014,"$82,600.00 ",3,Los Angeles,USA,6
 Tomasa,Ray,7/12/2018,"$45,900.00 ",2,Los Angeles,USA,2
 Orval,Hamilton,4/14/2016,"$57,300.00 ",2,Los Angeles,USA,4
@@ -94,13 +94,13 @@ Silvia,Regenbogen,12/3/2015,"$72,900.00 ",2,Berlin,Germany,5
 Robert,Baumgartner,10/27/2015,"$91,500.00 ",3,Berlin,Germany,5
 Arnold,Karl,1/7/2016,"$47,700.00 ",2,Berlin,Germany,5
 Ewald,Aleshire,2/5/2015,"$67,300.00 ",2,Berlin,Germany,5
-Stefan,Schröder,10/7/2017,"$59,800.00 ",2,Berlin,Germany,3
-Rosalie,Wörner,12/4/2014,"$67,000.00 ",2,Berlin,Germany,6
+Stefan,Schrï¿½der,10/7/2017,"$59,800.00 ",2,Berlin,Germany,3
+Rosalie,Wï¿½rner,12/4/2014,"$67,000.00 ",2,Berlin,Germany,6
 Philippa,Gruber,2/19/2016,"$64,500.00 ",2,Berlin,Germany,4
 Linda,Steuben,7/11/2017,"$47,500.00 ",2,Berlin,Germany,3
 Siegbert,Schuster,6/11/2017,"$49,900.00 ",2,Berlin,Germany,3
 Leonard,Southers,3/25/2015,"$95,500.00 ",3,Berlin,Germany,5
-Josef,Schröder,5/7/2018,"$48,200.00 ",2,Berlin,Germany,2
+Josef,Schrï¿½der,5/7/2018,"$48,200.00 ",2,Berlin,Germany,2
 Levi,Krause,11/30/2016,"$49,700.00 ",2,Berlin,Germany,4
 Yaling,Sung,1/7/2018,"$35,300.00 ",1,Beijing,China,3
 Jin,Yang,1/16/2016,"$56,600.00 ",2,Beijing,China,5
@@ -199,13 +199,13 @@ Darleen,Colbert,7/16/2016,"$75,600.00 ",3,Toronto,Canada,4
 Chauncey,Lynn,12/24/2015,"$79,500.00 ",3,Toronto,Canada,5
 Yadira,Cabrera,5/15/2018,"$32,200.00 ",1,Mexico City,Mexico,2
 Leire,Figueroa,9/28/2016,"$61,200.00 ",2,Mexico City,Mexico,4
-Camilo,Chávez,5/31/2018,"$40,300.00 ",2,Mexico City,Mexico,2
+Camilo,Chï¿½vez,5/31/2018,"$40,300.00 ",2,Mexico City,Mexico,2
 Bibiana,Rodriquez,7/14/2015,"$50,300.00 ",2,Mexico City,Mexico,5
-Fátima,Ojeda,6/8/2013,"$125,000.00 ",4,Mexico City,Mexico,7
+Fï¿½tima,Ojeda,6/8/2013,"$125,000.00 ",4,Mexico City,Mexico,7
 Balduino,Campana,6/10/2015,"$90,000.00 ",3,Mexico City,Mexico,5
-Isabela,San Nicolás,6/26/2015,"$62,900.00 ",2,Mexico City,Mexico,5
-Timoteo,Díaz,9/29/2018,"$41,100.00 ",2,Mexico City,Mexico,2
-Amílcar,Varela,5/11/2018,"$48,000.00 ",2,Mexico City,Mexico,2
+Isabela,San Nicolï¿½s,6/26/2015,"$62,900.00 ",2,Mexico City,Mexico,5
+Timoteo,Dï¿½az,9/29/2018,"$41,100.00 ",2,Mexico City,Mexico,2
+Amï¿½lcar,Varela,5/11/2018,"$48,000.00 ",2,Mexico City,Mexico,2
 Alejandro,Alamilla,4/29/2018,"$34,700.00 ",1,Mexico City,Mexico,2
 Blanche,Lawrence,9/16/2017,"$58,400.00 ",2,Sydney,Australia,3
 Sheldon,Allsopp,9/1/2018,"$36,400.00 ",1,Sydney,Australia,2
